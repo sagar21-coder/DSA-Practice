@@ -7,6 +7,11 @@
 //    string s = "listen";
 //    string t = "silent";
 
+// if(s.length != t.length()) {
+//     cout << "Not an Anagram";
+//     return 0;
+//  }
+
 //    sort(s.begin(), s.end());
 //    sort(t.begin(), t.end());
 
